@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll(".gallery img").forEach(e=>{e.addEventListener("click",function(){alert("Você clicou na imagem: "+e.alt)})})});

@@ -1,0 +1,2 @@
+body{font-family:Arial,sans-serif;background-color:#f0f0f0;display:flex;justify-content:center;align-items:center;height:100vh;margin:0}.gallery{display:grid;grid-template-columns:repeat(3, 1fr);gap:10px}.gallery img{width:100%;border:2px solid #ccc;transition:transform .3s ease}.gallery img:hover{transform:scale(1.05)}
+/*# sourceMappingURL=maps/main.css.map */

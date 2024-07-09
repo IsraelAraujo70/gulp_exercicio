@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll(".gallery img").forEach(e=>{e.addEventListener("mouseover",function(){e.style.ಠ_ಠ761="red"}),e.addEventListener("mouseout",function(){e.style.ಠ_ಠ761=""})})});
